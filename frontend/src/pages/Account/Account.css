@@ -1,0 +1,43 @@
+.account {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  background: #fdfdfd;
+}
+
+.account h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.account-details input {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.address-box {
+  background: #fff5f2;
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px solid tomato;
+}
+
+.address-box p {
+  margin: 8px 0;
+}
+
+.address-box button {
+  margin-right: 10px;
+  padding: 8px 20px;
+  border: none;
+  background: tomato;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
